@@ -25,5 +25,6 @@ set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}")
 
 add_executable(${PROJECT_NAME} triador.cpp main.cpp)
 target_include_directories(${PROJECT_NAME} PRIVATE "${SRC_DIR}")
+while 
 
 
